@@ -5,4 +5,4 @@
 
 Simple projects to add on Grapher (MacOS only)
 
-<kbd>Download `Project 1`</kbd>
+<a href="https://daniel4-scratch.github.io/Grapher/gcx/Project%201.gcx"><kbd>Download `Project 1`</kbd></a>
