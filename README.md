@@ -4,3 +4,5 @@
 </p>
 
 Simple projects to add on Grapher (MacOS only)
+
+<kbd>Download `Project 1`</kbd>
